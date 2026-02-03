@@ -1,0 +1,17 @@
+Log Summary Report
+Generated: Tue Feb  3 23:17:28 IST 2026
+=========================================
+
+Log File: sample.log
+
+Total Log Entries: 8
+
+Message Counts by Level:
+  - INFO:    3
+  - WARNING: 2
+  - ERROR:   3
+
+Most Recent ERROR Message:
+  2025-01-12 10:21:45 ERROR Database connection failed
+
+=========================================

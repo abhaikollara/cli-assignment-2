@@ -1,0 +1,8 @@
+101, John Doe, 45, 67, 89
+102, Jane Smith, 32, 55, 78
+103, Bob Wilson, 40, 30, 50
+104, Alice Brown, 90, 85, 92
+105, Charlie Davis, 25, 28, 30
+106, Eva Martinez, 33, 33, 33
+107, Frank Lee, 50, 32, 60
+108, Grace Kim, 78, 82, 65

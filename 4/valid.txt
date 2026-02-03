@@ -1,0 +1,8 @@
+admin@server.com
+alice@domain.com
+bob@company.com
+hello@world.com
+john123@gmail.com
+simple@example.com
+test@domain.com
+test123@domain.com

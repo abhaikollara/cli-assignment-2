@@ -1,0 +1,17 @@
+john123@gmail.com
+jane.doe@yahoo.com
+bob@company.com
+alice@domain.com
+invalid@email
+test123@domain.com
+user@test.org
+admin@server.com
+bob@company.com
+noatsign.com
+user@123domain.com
+hello@world.com
+test@domain.com
+bad-email@domain.com
+user_name@site.com
+john123@gmail.com
+simple@example.com

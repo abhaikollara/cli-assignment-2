@@ -1,0 +1,7 @@
+jane.doe@yahoo.com
+invalid@email
+user@test.org
+noatsign.com
+user@123domain.com
+bad-email@domain.com
+user_name@site.com

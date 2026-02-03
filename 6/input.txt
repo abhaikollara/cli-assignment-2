@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+A simple test with some words of varying lengths.
+Programming is fun and rewarding.
+I love to code every day.
